@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Reis"
+  given-names: "Ruy Freitas"
+  orcid: "https://orcid.org/0000-0001-5215-3744"
+- family-names: "Pigozzo"
+  given-names: "Alexandre Bittencourt"
+- family-names: "Bonin"
+  given-names: "Carla Rezende Barbosa"
+- family-names: "Quintela"
+  given-names: "Barbara de Melo"
+- family-names: "Pompei"
+  given-names: "Lara Turetta"  
+- family-names: "Vieira"
+  given-names: "Ana Carolina"  
+- family-names: "Silva"
+  given-names: "Larisa de Lima e"  
+- family-names: "Xavier"
+  given-names: "Maicom Peters"  
+- family-names: "Weber dos Santos"
+  given-names: "Rodrigo" 
+- family-names: "Lobosco"
+  given-names: "Marcelo"  
+title: "A validated mathematical model of the cytokine release syndrome in severe COVID-19"
+version: 1.0
+doi: 10.3389/fmolb.2021.639423
+date-released: 2021-07-20
+url: "https://github.com/ruyfreis/covid19_model"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Reis"
+      given-names: "Ruy Freitas"
+      orcid: "https://orcid.org/0000-0001-5215-3744"
+    - family-names: "Pigozzo"
+      given-names: "Alexandre Bittencourt"
+    - family-names: "Bonin"
+      given-names: "Carla Rezende Barbosa"
+    - family-names: "Quintela"
+      given-names: "Barbara de Melo"
+    - family-names: "Pompei"
+      given-names: "Lara Turetta"  
+    - family-names: "Vieira"
+      given-names: "Ana Carolina"  
+    - family-names: "Silva"
+      given-names: "Larisa de Lima e"  
+    - family-names: "Xavier"
+      given-names: "Maicom Peters"  
+    - family-names: "Weber dos Santos"
+      given-names: "Rodrigo" 
+    - family-names: "Lobosco"
+      given-names: "Marcelo"  
+  journal: "Frontiers in Molecular Biosciences"
+  month: 9
+  start: 639423
+title: "A validated mathematical model of the cytokine release syndrome in severe COVID-19"
+  year: 2021
