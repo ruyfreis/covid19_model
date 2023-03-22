@@ -54,5 +54,8 @@ preferred-citation:
   journal: "Frontiers in Molecular Biosciences"
   month: 9
   start: 639423
-title: "A validated mathematical model of the cytokine release syndrome in severe COVID-19"
+  end: 639423
+  title: "A validated mathematical model of the cytokine release syndrome in severe COVID-19"
   year: 2021
+  issue: 1
+  volume: 1
